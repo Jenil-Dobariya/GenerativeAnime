@@ -1,3 +1,6 @@
+# About Model
+This is an image generation model made by implementation of VAE (Variational AutoEncoder). It is trained on the data of images of faces of anime character and the model is able to generate a image when a Normalized tensor of appropriate dimension is given as input to model.
+
 # Use Model
 - Clone the repo and run the command:
 ```
